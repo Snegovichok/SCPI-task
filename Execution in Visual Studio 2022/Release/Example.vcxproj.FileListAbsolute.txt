@@ -1,0 +1,1 @@
+C:\VNA\S2VNA\Programming Examples and Guides\Programming Examples\SCPI (recommended)\C++\C++ simple example\Release\Example.exe

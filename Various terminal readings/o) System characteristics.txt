@@ -1,0 +1,7 @@
+OS: Microsoft Windows 10 Pro x64
+CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+RAM: 16 Gb DDR4 2400 MHz
+SSD M.2: 
+Read speed 3500 MB/s
+Write speed 3300 MB/s
+

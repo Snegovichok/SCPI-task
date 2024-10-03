@@ -1,0 +1,12 @@
+﻿  Example.cpp
+  stdafx.cpp
+  Создание кода...
+Example.obj : error LNK2019: ссылка на неразрешенный внешний символ viOpenDefaultRM в функции main.
+Example.obj : error LNK2019: ссылка на неразрешенный внешний символ viOpen в функции main.
+Example.obj : error LNK2019: ссылка на неразрешенный внешний символ viClose в функции main.
+Example.obj : error LNK2019: ссылка на неразрешенный внешний символ viSetAttribute в функции main.
+Example.obj : error LNK2019: ссылка на неразрешенный внешний символ viRead в функции main.
+Example.obj : error LNK2019: ссылка на неразрешенный внешний символ viPrintf в функции main.
+Example.obj : error LNK2019: ссылка на неразрешенный внешний символ viQueryf в функции main.
+visa32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\VNA\S2VNA\Programming Examples and Guides\Programming Examples\SCPI (recommended)\C++\C++ simple example\x64\Debug\Example.exe : fatal error LNK1120: неразрешенных внешних элементов: 7
