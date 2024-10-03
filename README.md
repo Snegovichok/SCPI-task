@@ -12,5 +12,5 @@ https://coppermountaintech.com/programming-examples/
 The example project file is located in this folder: Programming Examples > SCPI > C++ > C++ simple example
 The example uses SCPI commands in the VISA library to automate the measurements. "How to link visa library.txt" is an important document to refer to make the program work.
 
-**Various terminal readings**
+**Various terminal readings**:
 Here are the tests of the program and the very characteristics of the computer on which the calculations were performed.
