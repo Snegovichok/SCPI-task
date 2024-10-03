@@ -1,5 +1,5 @@
 # SCPI-task
-**Steps**
+**Steps**:
 1) Install the VNA application software (S2VNA):
 https://coppermountaintech.com/s2-vna-soft/
 And run it in demo mode. You can enable demo mode using these softkeys in the application: System > Misc Setup > Demo  Mode - ON
